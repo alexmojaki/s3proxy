@@ -13,8 +13,9 @@ Features
 --------
 * create, remove, and list buckets (including user-specified regions)
 * put, get, delete, and list objects
-* multi-part uploads (emulated operation, see [#2](https://github.com/andrewgaul/s3proxy/issues/2))
-* copy objects (emulated operation, see [#46](https://github.com/andrewgaul/s3proxy/issues/46))
+* multi-part uploads
+* copy objects
+* copy multi-part objects (emulated operation, see [#76](https://github.com/andrewgaul/s3proxy/issues/76))
 * delete multiple objects
 * store and retrieve object metadata, including user metadata
 * set and get canned bucket and object ACLs (private and public-read only)
